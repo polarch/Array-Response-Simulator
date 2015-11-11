@@ -1,10 +1,11 @@
 # Sensor Array Response Simulator
+
 #### A library that simulates array responses for sensors with arbitrary geometry and directional characteristics.
 
 ---
->    Archontis Politis, 2014
->    Department of Signal Processing and Acoustics, Aalto University, Finland  
->    archontis.politis@aalto.fi
+>   Archontis Politis, 2014
+>   Department of Signal Processing and Acoustics, Aalto University, Finland  
+>   archontis.politis@aalto.fi
 ---
 
 This is a collection of MATLAB routines for simulation of array responses of
