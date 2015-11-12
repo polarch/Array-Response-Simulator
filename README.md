@@ -3,9 +3,9 @@
 #### A library that simulates array responses for sensors with arbitrary geometry and directional characteristics.
 
 ---
->   Archontis Politis, 2014
->   Department of Signal Processing and Acoustics, Aalto University, Finland  
->   archontis.politis@aalto.fi
+>   Archontis Politis, 2014 
+>   Department of Signal Processing and Acoustics, Aalto University, Finland 
+>   archontis.politis@aalto.fi 
 ---
 
 This is a collection of MATLAB routines for simulation of array responses of
@@ -70,6 +70,6 @@ For more details on using functions, check their help output in Matlab.
 * sphModalCoeffs.m : Compute the radial (modal) weights for a spherical scatterer
 
 * sphericalScatterer.m : Compute the response for a measurement point at an arbitrary distance from a rigid spherical scatterer
-* cyindricalScatterer.m : Compute the response for a measurement point at an arbitrary distance from a rigid cylindrical scatterer
+* cylindricalScatterer.m : Compute the response for a measurement point at an arbitrary distance from a rigid cylindrical scatterer
 
 * getArrayResponse.m' :  Simulate open arrays of arbitrary directional microphones with axisymmetric responses
