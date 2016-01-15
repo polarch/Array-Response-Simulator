@@ -26,8 +26,8 @@ not based on the expansion but directly on the steering vector formula of
 inter-sensor delays and sensor gains for directional patterns 
 (e.g. arrays of cardioid microphones).
 
-Most of the functionality of the library is displayed in the included  
-script TEST_ARRAY_SIMULATOR.m
+Most of the functionality of the library is displayed at [http://research.spa.aalto.fi/projects/arraysim-lib/arraysim.html], 
+or in the included script TEST_ARRAY_SIMULATOR.m
 
 For more information on the expansions, you can have a look on
 
