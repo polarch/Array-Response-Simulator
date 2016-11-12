@@ -3,11 +3,21 @@
 #### A library that simulates array responses for sensors with arbitrary geometry and directional characteristics.
 
 ---
->   Archontis Politis, 2014 
 >
->   Department of Signal Processing and Acoustics, Aalto University, Finland 
->   archontis.politis@aalto.fi 
+>    Archontis Politis, 2015  
+>
+>    Department of Signal Processing and Acoustics, Aalto University, Finland  
+>
+>    archontis.politis@aalto.fi
+>
 ---
+
+This Matlab/Octave library was developed during my doctoral research in the [Communication Acoustics Research Group] (http://spa.aalto.fi/en/research/research_groups/communication_acoustics/), Aalto University, Finland. If you would like to reference the code, you can refer to my dissertation published [here](https://aaltodoc.aalto.fi/handle/123456789/22499):
+
+    Archontis Politis, Microphone array processing for parametric spatial audio techniques, 2016
+    Doctoral Dissertation, Department of Signal Processing and Acoustics, Aalto University, Finland
+    
+## Description
 
 This is a collection of MATLAB routines for simulation of array responses of
 
